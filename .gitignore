@@ -5,7 +5,7 @@ __pycache__/
 .idea/
 
 # 本地路径
-**/uilog
+**/uicaseLog.txt
 
 # C extensions
 *.so
