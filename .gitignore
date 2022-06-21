@@ -7,8 +7,7 @@ __pycache__/
 # 本地路径
 #**/uicaseLog.txt
 *.apk
-log/uilog/*
-!.gitkeep
+**/log
 
 # C extensions
 *.so
