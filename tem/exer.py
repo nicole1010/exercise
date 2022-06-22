@@ -35,3 +35,4 @@ def create_file(relative_path):
         file.close()
 
 create_file("/Users/cuifang/Desktop/exercise/log/uilog/uicaseLog.txt")
+print("lalallala")
