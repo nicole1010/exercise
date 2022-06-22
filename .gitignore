@@ -9,6 +9,9 @@ __pycache__/
 *.apk
 log/uilog/*
 !.gitkeep
+report/Android/testdata/*
+report/Android/testreport/*
+!environment.properties
 
 # C extensions
 *.so
