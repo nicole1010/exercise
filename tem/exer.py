@@ -15,7 +15,6 @@ def getpath(filepath):
         os.path.join(os.path.dirname(__file__), p)
     )
     fpath = PATH(filepath)
-    print(f"fpath:{fpath}")
     return fpath
 
 def whether_path_exists(path) -> object:
