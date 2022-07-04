@@ -34,4 +34,4 @@ def create_file(relative_path):
         file = open(filepath, 'a+')
         file.close()
 
-create_file("/Users/cuifang/Desktop/exercise/log/uilog/uicaseLog.txt")
+create_file("/logExe/uilog/uicaseLog.txt")
