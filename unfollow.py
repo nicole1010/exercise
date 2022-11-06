@@ -1,0 +1,8 @@
+# -*- coding: UTF-8 -*-
+'''
+@Time: 2022/9/24 21:34
+@author: nicole1010
+'''
+
+since = 0
+myfollow = f"curl -H 'Host: social.kkmh.com' -H 'Cookie: session=v1-GAgAAAAAAAAIVhgg8BfoamxIXe47cFWLX_-ae3JULJ9N3PYf90_1O1nmpRgA;Path=/;uid=132808601;Created=683972277;kk_s_t=1664026119280;Domain=.kkmh.com;Expires=2022-09-19 08:17:57 +0000;' -H 'accept: */*' -H 'x-device: I:1D3CDDA2-4D37-429A-A906-5DD8684FC4D7' -H 'package-id: com.kuaikan.comic' -H 'hw-model: iPhone14,5' -H 'kkflowtype: NotFree' -H 'kkdid: I2019021821530172259461797349457' -H 'accept-language: zh-Hans-CN;q=1, en-CN;q=0.9' -H 'muid: 9f89c84a559f573636a47ff8daed0d33' -H 'user-agent: Kuaikan/7.28.0/728000(iPhone;iOS 16.0.2;Scale/3.00;WiFi;2532*1170)' -H 'lower-flow: No' -H 'app-info: eyJra19jX3QiOiIxNjY0MDI2MTI1MzIyIiwiYmQiOiJBcHBsZSIsImFwcF9zZWNyZXRfc2lnbiI6ImE2YmUzZjlkNWU5YTY3YTRjNDVhMzk1NjBjODNjZDNjIiwiY2EiOjEsIm92IjoiMTYuMC4yIiwiYWVnaXNfYXBwX2lkIjoiMTAwMDAwMTM5MiIsImN0IjoyMCwid2lkdGgiOjExNzAsImlkZmEiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJ2aXNpdG9yX3NpZ24iOiJiZDFhNzE1YjczMDUyZjBkZjFmYzlmZWVlZTA0OWFlMCIsIm1vZGVsIjoiaVBob25lMTQsNSIsImtrX3NfdCI6IjE2NjQwMjYxMTkyODAiLCJkcGkiOjAsImhlaWdodCI6MjUzMiwiaWRmdiI6IkUwQ0IzMTc2LTBFRjEtNDczNS1BODk5LUY0QUFDNkU4MTgyOCIsInZpc2l0b3JfaWQiOiIxRDNDRERBMi00RDM3LTQyOUEtQTkwNi01REQ4Njg0RkM0RDciLCJkZXZ0IjoxLCJnZW5kZXIiOjAsInVzZXJfZ3JvdXAiOiJub3JtYWwifQ==' --compressed 'https://social.kkmh.com/v1/graph/users/132808601/following?limit=20&since=0'"
